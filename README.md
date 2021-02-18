@@ -2,6 +2,7 @@
 
 A game written in C99 with minimal dependencies for Windows, macOS, Linux and WASM.
 
+It's a toy roguelike-ish thing with a minimal 3d renderer.
 DEMO VIDEO: https://youtu.be/d0eTQThNl1M
 
 ## Clone, Build and Run (Linux, macOS, Windows)
