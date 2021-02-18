@@ -2,6 +2,8 @@
 
 A game written in C99 with minimal dependencies for Windows, macOS, Linux and WASM.
 
+DEMO VIDEO: https://youtu.be/d0eTQThNl1M
+
 ## Clone, Build and Run (Linux, macOS, Windows)
 
 On the command line:
